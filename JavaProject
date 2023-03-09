@@ -1,0 +1,30 @@
+import java.util.*;
+class Question
+{
+String statement;
+int marks;
+}
+class Paper
+{
+int  numberofquestions;
+int maximummarks;
+ArrayList<Question> bank=new ArrayList<Question>();
+
+public void getPattern()
+{
+Scanner sc=new Scanner(System.in);
+System.out.println("Enter how many questions of 5 marks required");
+int five = sc.nextInt();
+System.out.println("Enter how many questions of 10 marks required");
+int ten=sc.nextInt();
+maximummarks=2*two+5*five+10*ten;
+int m=two;
+for(int i=0;i<bank.size();i++)
+{
+if(bank.get(i).marks==2)
+{
+system.out.println(bank.get(i).statement);
+m--;
+}
+}
+}
