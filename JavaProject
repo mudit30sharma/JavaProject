@@ -28,3 +28,35 @@ m--;
 }
 }
 }
+
+public void addQuestion()
+{
+Scanner sc=new Scanner(System.in);
+Question ob1=new Question();
+System.out.println("Enter statement");
+ob1.statement=sc.nextLine();
+System.out.println("Enter marks");
+ob1.marks=sc.nextInt();
+bank.add(ob1);
+}
+}
+class Finalpaper
+{
+public static void main(String args[])
+{
+Paper ob1=new Paper();
+Scanner sc=new Scanner(System.in);
+int n=0;
+while(n>=0){
+System.out.println("Enter 1 for adding a new question in bank");
+System.out.println("Enter 2 for paper printing");
+n=sc.nextInt();
+if(n==1)
+ob1.addQuestion();
+if(n==2)
+{
+ob1.getPattern();
+}
+}
+}
+}
