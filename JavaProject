@@ -4,6 +4,7 @@ class Question
 String statement;
 int marks;
 }
+
 class Paper
 {
 int  numberofquestions;
@@ -40,6 +41,7 @@ ob1.marks=sc.nextInt();
 bank.add(ob1);
 }
 }
+
 class Finalpaper
 {
 public static void main(String args[])
