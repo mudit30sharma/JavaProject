@@ -1,0 +1,10 @@
+Draw an isosceles triangle ABC in which the base BC is 8 cm long and its altitude AD through A is 4 cm long. Then draw another triangle whose side is 2/3 of the corresponding sides of triangle ABC.
+In a group of students, there are 6 boys and 4 girls. Out of 10 students, 4 students have to be selected. Find out how many different ways the students can be selected such that at least one boy should be selected?
+Find the sum of all such multiples of 7 which are less than 500.
+Simplify the expression (x + y)(x + z) using the laws of boolean algebra.
+Find out the number of ways that 3 postcards can be posted in 5 post boxes.
+A bucket, is in the form of a frustum of a cone whose height is 42 cm and the radii of its circular ends are 30 cm and 10 cm. Find the amount of milk (in litres) which this bucket can hold. If the milkman sells the milk at the rate of Rs. 40 per litre, what amount he will get from the sale?
+Find out the number of ways that the letters of the word “DETAIL” can be arranged such that the vowels must occupy odd positions.
+A solid metallic cylinder of diameter 12 cm and height 15 cm is melted and recast into toys in the shape of a cone of radius 3 cm and height 9 cm. Find the number of toys so formed.
+From a point P on the ground, the angles of elevation of the top of a 10 m tall building and a helicopter, hovering at some vertically over the top the building is 30 degrees and 60 degrees respectively. Find the height of the helicopter above the ground.
+Prove that the parallelogram circumscribing a circle is a rhombus.

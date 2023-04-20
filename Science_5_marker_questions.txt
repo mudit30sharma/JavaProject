@@ -1,0 +1,15 @@
+Describe Carnot’s cycle and write the expression for its efficiency.
+Using kinetic theory of gases derive an expression for finding the pressure of an ideal gas in terms of mean squared speeds of the molecules.
+Derive the Newton’s formula to find the speed of a longitudinal wave in an ideal gas. What is the Laplace correction to obtainthe speed of sound in air?
+Define torque. Show that torque on a particle is equal to rate of change of its angular momentum.
+State Newton’s second law of motion and hence derive F = ma.
+Find the magnitude and direction of the resultant of two vectors A and B in terms of their magnitudes and angle θ between them.
+State law of conservation of mechanical energy and illustrate the same in case of a freely falling body.
+Derive an expression for potential energy of stretched spring.
+State Work- energy theorem .Prove it in case of a variable force.
+Obtain the expression for loss in K.E. during an inelastic collision.
+Obtain the expression for final velocities of two bodies in one dimensional elastic collision.
+State and explain theorem of perpendicular axis and of parallel axis.
+Using perpendicular axis theorem obtain the expression for the moment of inertia of a disc about its diameter. 
+Show that τ =Iα. Symbols have usual meaning.
+Derive an expression for the kinetic energy of a rolling body.

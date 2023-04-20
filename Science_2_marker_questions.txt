@@ -1,0 +1,51 @@
+Derive the expression for time of flight of a projectile.
+Arrive at the statement of principle of conservation of linear momentum from Newton’s laws of motion.
+State Kepler’s laws of planetary motion.
+Prove that the centre of mass of a system moves with constant velocity in the absence of external force on the system.
+State and explain Hooke’s law. Define modulus of elasticity.
+State Bernoulli’s theorem. What are its applications?
+What is Doppler effect. Write any two applications of Doppler’s effect.
+Prove that potential energy stored in a spring is ½ kx2 , where k is the force constant of the spring and x is the change in length of the spring.
+Given the relative error in the measurement of the radius of a circle is 0.02, what is the percentage error in the measurement of its area?
+What are the significance of velocity – time graph?
+What is resolution of a vector? What is the x-component of a vector A , that makes an angle 300 with x-axis.
+Give the general conditions of equilibrium of a rigid body.
+Write Stoke’s formula for viscous drag force. Explain the terms.
+What is meant by anomalous behaviour of water. What is its significance?
+State and explain first law of thermodynamics.
+What is periodic motion. Give an example.
+Mention any three differences between standing waves and progressive waves.
+State and explain the law of thermal conduction.
+Write any three assumptions of kinetic theory of gases.
+What is capillary rise? Write an expression for it. Explain the terms.
+Draw the stress verses strain graph for a metallic wire stretched up to fracture point. Define the terms proportional limit and fracture point.
+Prove that for a particle in rectilinear motion under constant acceleration, the change in kinetic energy of the particle is equal to the work done on it by the net force?
+State and explain triangle law of vector addition.
+On an average a human heart is found to beat 75 times in a minute. Calculate its frequency and time period.
+State and explain zeroth law of thermodynamics.
+Mention the uses of polar satellites?
+What is parallax? Mention its use. 
+A car is traveling with a uniform velocity of 30ms-1. The driver applies the breaks and the car comes to rest in 10seconds. Calculate the retardation. 
+Distinguish between scalars and vectors. 14. When is the work done negative? Give an example. 
+State the law of conservation of angular momentum. Illustrate with an example.
+Consider an equation v=v0+ at, where vo is the initial velocity, v is the final velocity, a is the acceleration and t is the time taken. Check whether this equation is dimensionally correct. 
+Derive an expression for centripetal acceleration. 
+Write any one disadvantage of friction. What are the different methods of reducing friction? 
+Differentiate between conservative force and non-conservative force with one example for each. 
+Find the force required to stretch a wire of area of cross section 2 X 10-4m 2 so that its length becomes 1.5 times original length. Young’s modulus=3.6 X 1011Nm-2 . 
+State Pascal’s law. Give two applications of Pascal’s law.
+Determine the molar specific heat at constant volume for a mono atomic gas molecule. 
+Give the theory of beats.
+What is impulse and impulsive force? 
+State and explain Boyle’s law. 
+What is reversible process? Give an example. 
+A planet has same mass as that of earth, but its radius is half that of earth. If the acceleration due to gravity on earth is ‘g’, what is the acceleration due to gravity on that planet. 
+Mention the expression for kinetic energy of a particle executing simple harmonic motion. Explain the terms.
+Name a fundamental force which has long range and a fundamental force which has short range of operation. 
+Distinguish between path length and displacement.
+Derive an equation for simple harmonic motion.
+Write the expression for magnitude of maximum velocity of a particle executing SHM. At which position it possesses; a) maximum value of velocity? b) zero velocity ?
+Mention the expression for magnitude of maximum acceleration of a particle executing SHM. At which position it possess; a) maximum value of acceleration ? b) zero acceleration ? 
+Derive the expression for kinetic energy and potential energy of a particle executing SHM.
+Write the expressions for kinetic energy, potential energy and total energy of a particle executing SHM.
+Calculate the magnitude of maximum velocity of a particle executing SHM with a period of 8 s and amplitude 3 cm.

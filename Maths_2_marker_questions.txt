@@ -1,0 +1,10 @@
+If A and B are two events such that P (A) = 0.4, P (B) = 0.8 and P (B|A) = 0.6, then find P (A|B). 
+Find the LCM of the given numbers-1015,13117,3036 
+Integrate: tan2x sec4x dx. 
+Find the coordinates of the point where the line through the points A (3, 4, 1) and B (5, 1, 6) crosses the XZ plane. 
+Solve the following Linear Programming Problem graphically: Maximize: Z = 3 x + 4 y Subject to: x + y ≤ 4, x ≥ 0 and y ≥ 0. 
+The sides of an equilateral triangle are increasing at the rate of 2 cm/sec. Find the rate at which its area increases, when side is 10 cm long. 
+Find the next term of the series- 3, 4, 6, 9, 14, 21, ? 
+If x = 3sin t – sin 3t, y = 3 cos t – cos 3t, then find dy/dx. 
+A furniture dealer sells only tables and chairs. He has Rs. 50,000 to invest and a storing capacity for 80 items. He buys a table for Rs. 800 and a chair for Rs. 400. He gets a profit of Rs.100 on selling a table and Rs. 50 on selling a chair. Assuming that he sell whatever he purchases, formulate the above as an LPP for maximum profit. 
+How many equivalence relations on the set {1, 2, 3} containing (1, 2) and (2, 1) are there in all? 
